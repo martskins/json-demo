@@ -3,22 +3,26 @@
     {
       "id": 1,
       "title": "hello",
+      "userId": 1,
       "user": { "id": 1 }
     },
     {
       "id": 2,
       "title": "hello",
-      "user": { "id": 1 }
+      "userId": 2,
+      "user": { "id": 2 }
     }
   ],
   "users": [
     {
       "id": 1,
-      "name": "someone"
+      "name": "someone",
+      "profileId": 1
     },
     {
       "id": 2,
-      "title": "someone else"
+      "title": "someone else",
+      "profileId": 2
     }
   ],
   "profile": {
