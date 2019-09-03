@@ -1,0 +1,27 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello",
+      "user": { "id": 1 }
+    },
+    {
+      "id": 2,
+      "title": "hello",
+      "user": { "id": 1 }
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "someone"
+    },
+    {
+      "id": 2,
+      "title": "someone else"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
