@@ -2,12 +2,14 @@
   "posts": [
     {
       "id": 1,
+      "escapedJson": "{\n\"id\": 1,\n\"name\": \"someName\"\n}",
       "title": "hello",
       "userId": 1,
       "user": { "id": 1 }
     },
     {
       "id": 2,
+      "escapedJson": "{\n\"id\": 2,\n\"name\": \"someName\"\n}",
       "title": "hello",
       "userId": 2,
       "user": { "id": 2 }
